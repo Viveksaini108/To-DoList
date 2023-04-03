@@ -27,3 +27,4 @@ Use the arrow keys or type the number corresponding to the option you want to se
 
 Contributing
 Contributions are welcome! If you have any suggestions for improvements or bug fixes, please open an issue or submit a pull request.
+
